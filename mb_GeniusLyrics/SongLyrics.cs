@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,7 @@ using Genius;
 // client access token: gxJMvRz5fQeA3H_5-dcGeJMFrP-Llo4AN7dU03SraVIytb8QZIp8gpmJtVDGCGk1
 namespace mb_GeniusLyrics
 {
-    class Program
+    class SongLyrics
     {
         static void Main(string[] args)
         {
@@ -69,3 +69,4 @@ namespace mb_GeniusLyrics
         }
     }
 }
+*/
